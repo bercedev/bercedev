@@ -1,17 +1,14 @@
+### Hi, I'm Berce 👋
 
-### Profilime Hoşgeldin 🌃 Ben Berce!
-<samp>
-<details align="center">
-    <summary style="font-weight: bold; font-size: 18px">
-      <b>GitHub İstatistikleri</b>
-      <i>(genişletmek için tıklayın!)</i>
-    </summary>
+I write Python tools and Telegram bots, and I send fixes upstream to the open source projects I use.
 
-  [![Berce's GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=must4f&theme=tokyonight)](https://github.com/must4f)
-  [![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=must4f&layout=compact&theme=tokyonight)](https://github.com/must4f)
+**Maintaining**
 
-  </details>
-<div align="center">
-  ________________________________
-  </div>
-</samp>
+- [SiriUserBot](https://github.com/bercedev/SiriUserBot): Telegram userbot with a persistent plugin system (Python, GPL-3.0)
+
+**Merged upstream**
+
+- [rustdesk/rustdesk#16390](https://github.com/rustdesk/rustdesk/pull/16390): stop retrying the `_pa` IPC at a Linux login screen
+- [cdpdriver/zendriver#272](https://github.com/cdpdriver/zendriver/pull/272): set the `lang` browser flag from `Config` instead of `add_argument`
+
+More in review: [open pull requests](https://github.com/search?q=author%3Abercedev+is%3Apr+is%3Aopen&type=pullrequests)
