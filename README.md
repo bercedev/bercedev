@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Berce](https://github.com/bercedev) 👨‍💻
 
 <p>
-  <img height="165" alt="Berce's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bercedev&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+  <img height="165" alt="Berce's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bercedev&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercedev&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 </p>
 
