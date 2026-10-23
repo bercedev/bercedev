@@ -21,6 +21,12 @@
 
 <br clear="right" />
 
+### 🛠️ Building
+
+[![calldibs](https://github-readme-stats.vercel.app/api/pin/?username=bercedev&repo=calldibs&theme=github_dark&hide_border=true)](https://github.com/bercedev/calldibs)
+
+A CLI that checks nobody is already working on a GitHub issue before you start a fix: linked PRs, people who said they'd take it, and the project's CLA, DCO and AI rules. Works for people and for AI agents (`--json` and a skill file).
+
 ### 🤝 Contributing
 
 - [Graphify](https://github.com/Graphify-Labs/graphify): regular contributor, mostly to code extraction, the CLI and installer, and the editor integrations ([my commits](https://github.com/Graphify-Labs/graphify/commits/v8?author=bercedev))
