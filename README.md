@@ -19,12 +19,6 @@
 - 🔧 I send fixes upstream to the open source projects I use, mostly bug fixes with a test that fails before the change.
 - 🖥️ Web development, Linux servers, Nginx, Docker Compose and CI/CD.
 
-### 🛠️ Maintaining
-
-[![SiriUserBot](https://github-readme-stats.vercel.app/api/pin/?username=bercedev&repo=SiriUserBot&theme=github_dark&hide_border=true)](https://github.com/bercedev/SiriUserBot)
-
-Telegram userbot with a persistent plugin system (Python, GPL-3.0).
-
 <br clear="right" />
 
 ### 🤝 Contributing
